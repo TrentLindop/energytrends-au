@@ -1,10 +1,23 @@
-# <img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/EnergyTrends_LOGO.png" width="300" alt="Energy Trends Australia Logo">
+<div style="background-color: #f8f5f1; min-height: 100vh; padding: 2rem; font-family: Arial, sans-serif;">
 
-<h2 align="center" style="color: #003048;">From Data to Decision: Master Your Energy Risk</h2>
+<div style="max-width: 900px; margin: 0 auto;">
 
-<p align="center" style="color: #003048; background-color: #f8f5f1; padding: 1rem; border-radius: 8px;">
-  Energy Trends Australia translates volatile market data into clear, actionable intelligence, giving your business the confidence to manage budgets, mitigate risk, and execute your procurement strategy at the right time.
+<!-- Centered Logo -->
+<div align="center" style="margin-bottom: 2rem;">
+  <!-- This now points to your uploaded logo -->
+  <img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/EnergyTrends_LOGO.png" width="400" alt="Energy Trends Australia Logo" style="max-width: 100%;">
+</div>
+
+<!-- Main Content -->
+<div style="background-color: white; border-radius: 12px; padding: 2rem; box-shadow: 0 2px 8px rgba(0,48,72,0.1);">
+
+<h2 align="center" style="color: #003048; margin-bottom: 1.5rem;">From Data to Decision: Master Your Energy Risk</h2>
+
+<div style="background-color: #f8f5f1; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem;">
+<p align="center" style="color: #003048; margin: 0; font-size: 1.1rem;">
+  Energy Trends Australia translates volatile market data into clear, actionable intelligence, giving your business the confidence to manage budgets, mitigate risk, and execute your procurement strategy.
 </p>
+</div>
 
 ---
 
@@ -21,12 +34,12 @@ Our platform is built on two powerful, integrated modules designed to give you a
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
 
 <div>
-  <h4 style="color: #003048;"><img src="icons/market-signal.svg" width="25" alt="Market Signal Icon" align="left" style="margin-right: 10px;">Proprietary Market Signals</h4>
+  <h4 style="color: #003048;"><img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/market-signal.svg" width="25" alt="Market Signal Icon" align="left" style="margin-right: 10px;">Proprietary Market Signals</h4>
   We don't just show you prices; we analyze market momentum. Our analysis engine processes daily indicators to generate clear <strong>Actionable</strong> or <strong>Monitor</strong> signals, helping you identify potential windows of opportunity.
 </div>
 
 <div>
-  <h4 style="color: #003048;"><img src="icons/risk-shield.svg" width="25" alt="Risk Shield Icon" align="left" style="margin-right: 10px;">Portfolio Risk Analysis</h4>
+  <h4 style="color: #003048;"><img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/risk-shield.svg" width="25" alt="Risk Shield Icon" align="left" style="margin-right: 10px;">Portfolio Risk Analysis</h4>
   Upload your contract portfolio to instantly visualize your budget exposure. Our tools model the financial impact of market movements on your future uncontracted volumes, turning uncertainty into quantifiable risk.
 </div>
 
@@ -39,19 +52,19 @@ Our platform is built on two powerful, integrated modules designed to give you a
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); text-align: center; gap: 1rem; margin: 2rem 0;">
 
 <div>
-  <img src="icons/step-define.svg" width="70" alt="Step 1: Define">
+  <img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/step-define.svg" width="70" alt="Step 1: Define">
   <h4 style="margin: 0.5rem 0; color: #003048;">1. Define Your Position</h4>
   <p style="font-size: 0.9rem; margin: 0;">Securely input your current energy contracts and forward-looking budgets.</p>
 </div>
 
 <div>
-  <img src="icons/step-monitor.svg" width="70" alt="Step 2: Monitor">
+  <img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/step-monitor.svg" width="70" alt="Step 2: Monitor">
   <h4 style="margin: 0.5rem 0; color: #003048;">2. Monitor Your Dashboard</h4>
   <p style="font-size: 0.9rem; margin: 0;">Visualize your risk exposure and track our proprietary market signals.</p>
 </div>
 
 <div>
-  <img src="icons/step-alerts.svg" width="70" alt="Step 3: Act">
+  <img src="https://raw.githubusercontent.com/TrentLindop/energytrends-au/main/icons/step-alerts.svg" width="70" alt="Step 3: Act">
   <h4 style="margin: 0.5rem 0; color: #003048;">3. Act with Confidence</h4>
   <p style="font-size: 0.9rem; margin: 0;">Receive intelligent alerts based on market signals.</p>
 </div>
@@ -68,11 +81,11 @@ Energy Trends Australia was founded by an industry veteran with years of hands-o
 
 <div align="center" style="background-color: #f8f5f1; padding: 1rem; border-radius: 8px; margin-top: 2rem;">
 
-**Important Disclaimer:**  
+**Important Disclaimer:** &nbsp;
 <span style="color: #003048;">The information and signals provided are for informational purposes only and do not constitute financial advice. Past performance is not an indicator of future results.</span>
 
 <p style="margin-top: 1rem;">
-  <a href="mailto:info@energytrends.au" style="color: #003048; text-decoration: underline;">Contact Us</a> | 
+  <a href="mailto:info@energytrends.au" style="color: #003048; text-decoration: underline;">Contact Us</a> |&nbsp;
   <a href="https://energytrends.au" style="color: #003048; text-decoration: underline;">Visit energytrends.au</a>
 </p>
 
