@@ -1,55 +1,72 @@
 # Energy Trends Australia
 
-![Hero Image Placeholder](hero-image.png)
+<p align="center">
+  <img src="https://via.placeholder.com/1200x600/2a4365/ffffff?text=Energy+Market+Dashboard" width="100%" alt="Market Dashboard">
+</p>
 
-## From Data to Decision: Master Your Energy Risk
-
-Energy Trends Australia is a powerful decision support platform designed for the Australian energy market. We translate volatile market data into clear, actionable intelligence, helping you manage budget uncertainty and execute your procurement strategy with confidence.
-
----
-
-## The Challenge: Timing a Volatile Market
-
-Managing multi-year energy budgets is complex. Constant market fluctuations create significant financial risk, and the key questions are always the same:
-- Is now the right time to go to market for a new contract?
-- How will the current market impact my future uncontracted energy spend?
-- How can I protect my budget from sudden price spikes?
-
-Answering these requires more than just raw data; it requires targeted analysis.
+## From Data to Decision
+**Master Your Energy Risk** in volatile Australian markets.
 
 ---
 
-## Our Solution: A Two-Pillar Approach to Risk Management
-
-Our platform provides clarity through two powerful, integrated modules.
-
-### 1. The Market Signal Engine
-We don't just show you prices; we analyse market momentum. Our proprietary analysis engine processes daily market indicators to generate clear **"Actionable"** or **"Monitor"** signals. These signals help you identify potential windows of opportunity to buy, cutting through the noise and focusing your attention when it matters most.
-
-### 2. The Portfolio Risk Dashboard
-Your energy strategy is unique. Upload your existing contract portfolio—including rates, terms, and volumes for each NMI—and our platform instantly quantifies your financial exposure. See exactly which parts of your future energy spend are exposed to market volatility and model the potential budget impact in real-time.
+## The Challenge
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+  <div>
+    <img src="icons/volatility.svg" width="25" alt="" align="left" style="margin-right: 10px;">
+    <p>Managing multi-year energy budgets requires navigating constant price fluctuations that create financial exposure.</p>
+  </div>
+</div>
 
 ---
 
-## How It Works: Your Path to Clarity in 3 Steps
+## Our Solution
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
 
-1.  **Define Your Position:** Securely input your current energy contracts and forward-looking budgets into the platform.
-2.  **Monitor Your Dashboard:** Instantly visualise your contracted vs. uncontracted positions and see our proprietary market signals.
-3.  **Receive Actionable Alerts:** Set intelligent alerts based on our market signals or specific price points to receive notifications that help you make timely, informed decisions.
+### <img src="icons/market-signal.svg" width="25" alt=""> Market Signals
+Proprietary analysis identifies optimal contract timing with **Actionable** or **Monitor** signals.
+
+### <img src="icons/risk-shield.svg" width="25" alt=""> Portfolio Protection
+Upload contracts to visualize exposed volumes and model budget impacts.
+
+</div>
+
+---
+
+## How It Works
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); text-align: center; gap: 1rem; margin-bottom: 2rem;">
+
+<div>
+  <img src="icons/step-define.svg" width="60" alt="Define">
+  <h4 style="margin: 0.5rem 0;">1. Define</h4>
+  <p style="font-size: 0.9rem; margin: 0;">Input contracts & budgets</p>
+</div>
+
+<div>
+  <img src="icons/step-monitor.svg" width="60" alt="Monitor">
+  <h4 style="margin: 0.5rem 0;">2. Monitor</h4>
+  <p style="font-size: 0.9rem; margin: 0;">Track signals & exposure</p>
+</div>
+
+<div>
+  <img src="icons/step-alerts.svg" width="60" alt="Act">
+  <h4 style="margin: 0.5rem 0;">3. Act</h4>
+  <p style="font-size: 0.9rem; margin: 0;">Receive timed alerts</p>
+</div>
+
+</div>
+
+---
+
+### Key Features
+| Feature | Icon | Description |
+|---------|------|-------------|
+| **Market Signals** | <img src="icons/market-signal.svg" width="20"> | Proprietary timing indicators |
+| **Risk Analysis** | <img src="icons/risk-shield.svg" width="20"> | Contract exposure modeling |
+| **Custom Alerts** | <img src="icons/action-alerts.svg" width="20"> | Price-point notifications |
 
 ---
 
 ### **Important Disclaimer**
-The information and signals provided by Energy Trends Australia are for informational purposes only and do not constitute financial advice. All tools are provided on the basis that you will evaluate the information and make your own strategic decisions. Historical market performance is not an indicator of future results.
+*Not financial advice. Past performance ≠ future results. Always consult a qualified energy broker.*
 
----
-
-## About Us
-
-Energy Trends Australia was founded by an industry veteran with years of hands-on experience in the Australian energy sector. We believe that every business deserves access to sophisticated risk management tools to navigate the complexities of the energy market. Our mission is to provide an independent, transparent, and powerful platform to support your strategy.
-
-## Get in Touch
-
-Our platform is currently in the final stages of development. For early access, partnership inquiries, or to join our mailing list for launch updates, please contact us at:
-
-**[info@energytrends.au](mailto:info@energytrends.au?subject=Inquiry%20from%20Website)**
+[Contact Us](mailto:info@energytrends.au) | [Visit Site](https://energytrends.au)
