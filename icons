@@ -1,1 +1,18 @@
+<!-- icons/market-signal.svg -->
+<svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M3 17V7M7 17V12M11 17V9M15 17V14M19 17V10M22 21H2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="19" cy="10" r="2" fill="currentColor"/>
+</svg>
 
+<!-- icons/risk-shield.svg -->
+<svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" stroke="currentColor" stroke-width="2"/>
+  <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <text x="12" y="16" font-size="8" text-anchor="middle" fill="currentColor">$</text>
+</svg>
+
+<!-- icons/action-alerts.svg -->
+<svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M18 8A6 6 0 106 8c0 7-3 9-3 9h18s-3-2-3-9M13.73 21a2 2 0 01-3.46 0" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M12 4v2m0 4h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</svg>
